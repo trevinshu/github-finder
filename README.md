@@ -8,7 +8,9 @@ Brad Traversy
 
 App to find GitHub users. This is the second project from the React Front To Back 2022 course.
 
-## Screenshot
+## Live Link
+
+https://github-finder-react-trevin.vercel.app/
 
 ## Languages, Tools, Techniques & Packages Used
 
@@ -18,6 +20,7 @@ App to find GitHub users. This is the second project from the React Front To Bac
 - React Icons
 - Tailwind
 - DaisyUI
+- useEffect, useReducer, useContext
 
 ## Built By
 
